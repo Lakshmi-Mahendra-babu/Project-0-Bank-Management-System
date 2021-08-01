@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: mahendra
+Build-Jdk: 16.0.1
+Class-Path: libs/mysql-connector-java-8.0.25.jar libs/protobuf-java-3.11
+ .4.jar libs/log4j-1.2.17.jar
+Main-Class: com.bankmanagement.client.BankManagement
+Created-By: Maven Integration for Eclipse
+
